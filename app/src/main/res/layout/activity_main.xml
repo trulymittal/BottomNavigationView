@@ -25,6 +25,8 @@
         app:menu="@menu/bottom_navigation_menu"
         app:itemIconTint="@drawable/item_selected"
         app:itemTextColor="@drawable/item_selected"
+
+        app:labelVisibilityMode="labeled"
         />
 
 </android.support.constraint.ConstraintLayout>
